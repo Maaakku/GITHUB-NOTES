@@ -1,6 +1,9 @@
 ✏️ Your work (from scratch or local repo)
 
+
 git init                     # Start tracking your project
+git remote add origin link
+git branch -M main
 git add .                    # Stage your updates (like saving a draft)
 git commit -m "message"      # Confirm and save a version with a note
 git push                     # Push changes to GitHub
